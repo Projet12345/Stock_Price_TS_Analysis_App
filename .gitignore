@@ -26,6 +26,7 @@ MANIFEST
 # Virtual Environment
 env/
 ENV/
+venv/
 env.bak/
 .env_backup/
 
